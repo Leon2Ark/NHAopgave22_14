@@ -1,0 +1,28 @@
+.nav a {
+    color: white;
+    }
+.nav a:hover {
+    color:rgb(38, 206, 206);
+    }
+.nav a:visited {
+    color:white;
+    }
+.nav a:active {
+    color:black;
+    }
+.img-thumbnail {
+    background-color:rgb(111, 138, 16);
+    border-radius: 1rem;
+    border-color:green;
+    }
+
+.custom-class {
+    background-color: green;
+}
+@media (min-width: 576px) {
+    .custom-class {
+        background-color: red;
+    }
+}
+  
+          
